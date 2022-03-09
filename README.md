@@ -1,4 +1,4 @@
-## Hii there 👋 (WIP)
+## Hii there 👋
 
 🌱 Backend developer. Results oriented
 
