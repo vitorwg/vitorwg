@@ -1,8 +1,8 @@
 ## Hii there 👋
 
 🌱 Backend developer. Results oriented
-
-😄 proactive, skilled in communicating and performing team tasks
+📚 Actually studing open-source projects with aplication ASP.NET Core Web (MVC)
+😄 Proactive, skilled in communicating and performing team tasks
 
 ## Technologies
 <div style="display: inline_block;">
